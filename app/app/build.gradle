@@ -1,4 +1,3 @@
-// Copyright (c) 2016 CSR Imaging US, LP
 apply plugin: 'com.android.application'
 
 android {
