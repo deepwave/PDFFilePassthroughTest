@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mopria File Passthrough</string>
+    <string name="mopria_unsupported_document_type">Unsupported document format</string>
+    <string name="mopria_document_reading_error">Could not read the document</string>
+    <string name="mopria_file_access_denied">File access is denied</string>
+    <string name="mopria_print_document_progress">Preparing the document for printing&#8230;</string>
+</resources>
